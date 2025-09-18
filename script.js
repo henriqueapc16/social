@@ -1,4 +1,4 @@
-function toggleMode() {
+function ToggleEvent() {
   const body = document.body
 
   if(body.classList.contains("light")){
